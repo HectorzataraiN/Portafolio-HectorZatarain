@@ -1,6 +1,7 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](./assets/hector.jpeg)
+<img src="./assets/imagen-proyecto.png" alt="Captura del portafolio" width="300"/>
+
 ## Herramientas utilizadas:
 
 * HTML
@@ -12,5 +13,6 @@
 ## Hecho por:
 
 ###Héctor Zatarain
+
 
 
